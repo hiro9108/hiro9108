@@ -12,5 +12,11 @@
 - ⚡ Fun fact: ... 
 
 -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiro9108&theme=solarized_dark)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hiro9108&show_icons=true&&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiro9108&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hiro9108)](https://github.com/ryo-ma/github-profile-trophy)
