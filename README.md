@@ -1,4 +1,4 @@
-### Hi I'm Hiroshi Egawa 👋
+### Hi, I'm Hiroshi Egawa 👋
 
 <!-- 
 - 🔭 I’m currently working on ...
