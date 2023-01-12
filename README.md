@@ -1,4 +1,9 @@
-### Hi, I'm Hiroshi Egawa 👋
+## My favourite technical skills.
+
+### Front-End: JavaScript, TypeScript, React.js, Next.js
+### Back-End: Node.js, Python, Restful-APIs, GraphQL
+### Cloud: Amazon Web Services
+### OS: Linux
 
 <!-- 
 - 🔭 I’m currently working on ...
@@ -14,12 +19,12 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiro9108&theme=solarized_dark)
 
 
-<p align="left"> 
+<!-- <p align="left"> 
 
   <img alt="github stats" height="250px" src="https://github-readme-stats.vercel.app/api?username=hiro9108&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 
   <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro9108&layout=compact&langs_count=10&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
+</p> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiro9108&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -30,9 +35,9 @@
 [![](https://raw.githubusercontent.com/hiro9108/hiro9108/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
-#### Development Environment
+## My favourite technical skills.
 
-- Favorite Front-End Languages: JavaScript, React.js
-- Editor: VsCode
-- Shell: zsh
-- OS: Linux
+### Front-End: JavaScript, TypeScript, React.js, Next.js
+### Back-End: Node.js, Python, Restful-APIs, GraphQL
+### Cloud: Amazon Web Services
+### OS: Linux
