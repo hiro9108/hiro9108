@@ -34,10 +34,3 @@
 
 [![](https://raw.githubusercontent.com/hiro9108/hiro9108/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-## My favourite technical skills.
-
-### Front-End: JavaScript, TypeScript, React.js, Next.js
-### Back-End: Node.js, Python, Restful-APIs, GraphQL
-### Cloud: Amazon Web Services
-### OS: Linux
