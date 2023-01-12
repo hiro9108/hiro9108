@@ -7,7 +7,7 @@
 
 ## Daily Training to solve problems
 
-### Leetcode: ![Click here](https://leetcode.com/Hiro9108/)
+### Leetcode: [Click here](https://leetcode.com/Hiro9108/)
 
 <!-- 
 - 🔭 I’m currently working on ...
