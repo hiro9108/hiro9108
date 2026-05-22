@@ -44,26 +44,6 @@
 
 ---
 
-## 🚀 Projects & Activities / プロジェクト・活動
-
-### 🌐 Make Your Website
-A web service to easily build your own site.
-あなたのウェブサイトを簡単に作れるサービスです。
-
-🔗 **[makeyourweb.vercel.app](https://makeyourweb.vercel.app)**
-
-### 🧩 Daily Training — LeetCode
-Solving algorithm problems every day to sharpen problem-solving skills.
-毎日のアルゴリズム学習で問題解決力を磨いています。
-
-🔗 **[leetcode.com/Hiro9108](https://leetcode.com/Hiro9108/)**
-
-<p>
-  <img src="https://leetcard.jacoblin.cool/Hiro9108?theme=dark&font=Source%20Code%20Pro&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
----
-
 ## 📊 GitHub Stats / 統計
 
 <div align="center">
