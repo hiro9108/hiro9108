@@ -61,12 +61,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiro9108&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro9108&layout=compact&langs_count=10&count_private=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://streak-stats.demolab.com?user=hiro9108&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-</div>
-
-<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiro9108&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiro9108&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
