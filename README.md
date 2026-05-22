@@ -85,11 +85,23 @@ Solving algorithm problems every day to sharpen problem-solving skills.
 
 <div align="center">
 
-[![Profile Details](https://raw.githubusercontent.com/hiro9108/hiro9108/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiro9108&theme=dracula" alt="Profile Details" />
+</a>
 
-[![Repos Per Language](https://raw.githubusercontent.com/hiro9108/hiro9108/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiro9108&theme=dracula" alt="Repos Per Language" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiro9108&theme=dracula" alt="Most Commit Language" />
+</a>
 
-[![Most Commit Language](https://raw.githubusercontent.com/hiro9108/hiro9108/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiro9108&theme=dracula" alt="Stats" />
+</a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hiro9108&theme=dracula" alt="Productive Time" />
+</a>
 
 </div>
 
