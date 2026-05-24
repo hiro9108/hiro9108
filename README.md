@@ -94,11 +94,3 @@
 </a>
 
 </div>
-
----
-
-<div align="center">
-
-### ✨ Thanks for visiting! / 訪問ありがとうございます！ ✨
-
-</div>
